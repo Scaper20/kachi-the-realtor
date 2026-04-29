@@ -127,8 +127,7 @@ export default function App() {
           </div>
 
           <h1 className="text-4xl md:text-6xl lg:text-8xl font-sans font-light tracking-tight leading-[1.1] mb-8 text-balance">
-            Where Investment <br />
-            Meets <span className="font-serif italic font-normal text-[#E2C08D]">Elegance.</span>
+            Honesty | Integrity | <span className="font-serif italic font-normal text-[#E2C08D]">Transparency</span>
           </h1>
 
           <p className="max-w-xl mx-auto text-sm md:text-base text-white/70 font-light leading-relaxed mb-12 text-balance">
